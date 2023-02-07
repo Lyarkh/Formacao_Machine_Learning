@@ -2,7 +2,7 @@
 
 ---
 ![badge_python](https://img.shields.io/pypi/pyversions/pandas)
-![bage_license](https://img.shields.io/packagist/l/Lyarkh/Formacao_Machine_Learning)
+![bage_license](https://img.shields.io/github/license/Lyarkh/Formacao_Machine_Learning)
 
 :construction: Em Construção :construction:
 
