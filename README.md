@@ -8,3 +8,11 @@
 
 Repositório que irá conter projetos, atividade e códigos desenvolvidos na formação de Machine Learning da alura.
 Buscando entender como funciona os modelos de machine learning e desenvolvendo diversos modelos.
+
+## Sumário
+
+---
+
+- Machine Learning -> Diretório que contém os notebooks criados da primeira formação de machine learning
+  - classificação com sklearn
+    - Foco no aprendizado de classificação binária e entendimento do funcionamento base dos algoritmos SVC
