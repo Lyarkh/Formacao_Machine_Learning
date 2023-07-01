@@ -16,3 +16,5 @@ Buscando entender como funciona os modelos de machine learning e desenvolvendo d
 - Machine Learning -> Diretório que contém os notebooks criados da primeira formação de machine learning
   - classificação com sklearn
     - Foco no aprendizado de classificação binária e entendimento do funcionamento base dos algoritmos SVC
+  - Classificação por trás dos panos
+    - Entendendo o funcionamento do modelos KNN, Bernouli de naive bayes e Decision Tree Classifier, e os cáculos base de cada um dos modelos
